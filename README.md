@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/jxg6nrg4Kf5EVhaNVN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HBOMax-hbomax-the-great-gatsby-2013-thegreatgatsbyonhbomax-jxg6nrg4Kf5EVhaNVN">via GIPHY</a></p>
+<img style="width: 100vw" src="https://user-images.githubusercontent.com/27806180/192000032-d4ac8f66-8b0a-476f-aa0b-605bda0e5d9c.gif">
